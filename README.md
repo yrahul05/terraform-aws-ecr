@@ -16,21 +16,6 @@
 
 Rahul Yadav  
 Certified Cloud & DevOps Engineer  
-CEO & CTO – [PrimeOps Technologies](https://primeops.co.in/)
-
-## 🚀 [PrimeOps Technologies](www.primeops.co.in) – Services
-
-> **Services Offered**
-> - ✔️ Terraform, Kubernetes and Ansible automation
-> - ✔️ CI/CD pipelines (GitHub Actions, GitLab CI, Jenkins, Argo CD)
-> - ✔️ Cloud setup on AWS, Azure, GCP, Hetzner and DigitalOcean
-> - ✔️ Multi-cloud architecture and cost optimization
-> - ✔️ Security and DevSecOps (scanning, secrets, compliance)
-> - ✔️ Docker, microservices and service mesh
-> - ✔️ Monitoring and logging (Prometheus, Grafana, ELK)
-> - ✔️ Migrations and modernization
-> - ✔️ Managed services: 24/7 monitoring, maintenance and support
-
 
 ## 🔗 Links
 
@@ -39,12 +24,7 @@ CEO & CTO – [PrimeOps Technologies](https://primeops.co.in/)
 > **LinkedIn:** [https://www.linkedin.com/in/rahulyadavdevops/](https://www.linkedin.com/in/rahulyadavdevops/)  
 > **Upwork:** [https://www.upwork.com/freelancers/~0183ad8a41e8284283](https://www.upwork.com/freelancers/~0183ad8a41e8284283)
 
-### PrimeOps Technologies
-> **Website:** [https://primeops.co.in/](https://primeops.co.in/)  
-> **GitHub:** [https://github.com/PrimeOps-Technologies](https://github.com/PrimeOps-Technologies)  
-> **LinkedIn:** [https://www.linkedin.com/company/primeops-technologies](https://www.linkedin.com/company/primeops-technologies)  
-> **Upwork Agency:** [https://www.upwork.com/agencies/1990756660262272773/](https://www.upwork.com/agencies/1990756660262272773/)
-> 
+ 
 # Example : private_ecr
 ```hcl
 module "private_ecr" {
@@ -149,6 +129,4 @@ module "public_ecr" {
 
 
 ## 💙 Maintained by Rahul Yadav
-
-CEO & CTO at **[PrimeOps Technologies](https://primeops.co.in/)**
 Helping teams build stable, scalable and consistent cloud infrastructure.
